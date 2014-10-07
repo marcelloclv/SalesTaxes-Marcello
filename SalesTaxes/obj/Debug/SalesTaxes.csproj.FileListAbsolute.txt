@@ -1,0 +1,13 @@
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe.config
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csprojResolveAssemblyReference.cache
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\App.g.cs
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes_MarkupCompile.cache
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.exe
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\bin\Debug\SalesTaxes.pdb
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\MainWindow.baml
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\MainWindow.g.cs
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.g.resources
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.Properties.Resources.resources
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.csproj.GenerateResource.Cache
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.exe
+c:\users\mclv\documents\visual studio 2013\Projects\SalesTaxes\SalesTaxes\obj\Debug\SalesTaxes.pdb
